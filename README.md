@@ -56,12 +56,12 @@ I've worked on a wide range of projects, from small websites to large-scale ente
 
 ### 🧐 More About Me
 
-- 💼 Software Engineer at [SmartQ](https://www.thesmartq.com/)
-- 🌱 &nbsp; I’m currently learning Typescript and working on my Data Structures and Algorithms;
+- 💼 Software Engineer at [SmartQ](https://www.thesmartq.com/).
+- 🌱 &nbsp; I’m currently learning Typescript.
 - 🔭 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 👯 I'm looking to collaborate on full stack web apps!
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/imran-sah-951521161/)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/imran-sah-951521161/).
 - 🕐 &nbsp; When I am free, I like playing 🎮games and watching anime.
   <!-- - 📝 &nbsp; Checkout my [resume]() -->
   <!-- - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]() -->
