@@ -136,7 +136,7 @@ I've worked on a wide range of projects, from small websites to large-scale ente
  <a href="#"
   ><img
    alt="next.js"
-   src="https://img.shields.io/badge/nextdotjs-000000.svg?logo=nextdotjs&logoColor=white"
+   src="https://img.shields.io/badge/next.js-000000.svg?logo=nextdotjs&logoColor=white"
  /></a>
  <a href="#"
   ><img
