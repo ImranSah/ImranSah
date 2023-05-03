@@ -14,25 +14,6 @@
  /></a>
 </h1>
 
-I'm a Full Stack Developer with over 2 years of experience in building web applications.
-I've worked on a wide range of projects, from small websites to large-scale enterprise applications. I'm passionate about creating scalable, maintainable, and high-performing applications that solve real-world problems.
-
-<!-- About me -->
-
-### 🧐 More About Me
-
-- 💼 Software Engineer at [SmartQ](https://www.thesmartq.com/)
-- 🌱 &nbsp; I’m currently learning Typescript and working on my Data Structures and Algorithms;
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/imran-sah-951521161/)
-  <!-- - 🔭 &nbsp; I’m currently working on  -->
-  <!-- - 🎨 &nbsp; Using [this svg]() and Figma I made 👉 -->
-  <!-- - 📝 &nbsp; Checkout my [resume]() -->
-  <!-- - 📚 &nbsp; When I am free,  -->
-  <!-- - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]() -->
-  <!-- - 🤝 &nbsp; I’m looking to collaborate on [sheets-database]() -->
-
 <!-- Social Icon -->
 
 <p align="center">
@@ -67,6 +48,24 @@ I've worked on a wide range of projects, from small websites to large-scale ente
   />
  </a>
 </p>
+
+<!-- I'm a Full Stack Developer with over 2 years of experience in building web applications.
+I've worked on a wide range of projects, from small websites to large-scale enterprise applications. I'm passionate about creating scalable, maintainable, and high-performing applications that solve real-world problems. -->
+
+<!-- About me -->
+
+### 🧐 More About Me
+
+- 💼 Software Engineer at [SmartQ](https://www.thesmartq.com/)
+- 🌱 &nbsp; I’m currently learning Typescript and working on my Data Structures and Algorithms;
+- 🔭 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 👯 I'm looking to collaborate on full stack web apps!
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/imran-sah-951521161/)
+- 🕐 &nbsp; When I am free, I like playing 🎮games and watching anime.
+  <!-- - 📝 &nbsp; Checkout my [resume]() -->
+  <!-- - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]() -->
+  <!-- - 🤝 &nbsp; I’m looking to collaborate on []() -->
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <p>
@@ -217,7 +216,7 @@ I've worked on a wide range of projects, from small websites to large-scale ente
   <br />
 
 | <a href="https://github.com/imransah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imransah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Imran's github stats" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imransah&&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="imransah" /> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --- | --- |
 
 <a href="https://stats.hyochan.dev/en/stats/imransah"><img src="https://stats.hyochan.dev/api/github-stats?login=imransah" width="100%" /></a>
 
