@@ -2,8 +2,8 @@
 <!-- ![alt text](https://images8.alphacoders.com/114/1144793.jpg "Banner") -->
 
 <!-- Intro -->
-<h1 align="left">Hi <img width="30"src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif"/>,
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=7957D5&vCenter=true&width=500&height=25&lines=I'm+Imran+Sah;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<h1 align="left"><img width="30"src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif"/>,
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=7957D5&vCenter=true&width=500&height=25&lines=I'm+Imran+Sah;Full+Stack+Developer" alt="Typing SVG" /></a>
 </h1>
 
 I'm a Full Stack Developer with over 2 years of experience in building web applications.
@@ -12,6 +12,7 @@ I've worked on a wide range of projects, from small websites to large-scale ente
 <!-- About me -->
 ### 🧐 More About Me:
 
+- 💼 Software Engineer at [SmartQ](https://www.thesmartq.com/)
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/imran-sah-951521161/)
