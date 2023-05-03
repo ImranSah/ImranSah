@@ -135,6 +135,16 @@ I've worked on a wide range of projects, from small websites to large-scale ente
  /></a>
  <a href="#"
   ><img
+   alt="next.js"
+   src="https://img.shields.io/badge/nextdotjs-000000.svg?logo=nextdotjs&logoColor=white"
+ /></a>
+ <a href="#"
+  ><img
+   alt="nestjs"
+   src="https://img.shields.io/badge/nestjs-E0234E.svg?logo=nestjs&logoColor=white"
+ /></a>
+ <a href="#"
+  ><img
    alt="Express.js"
    src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"
  /></a>
@@ -142,6 +152,11 @@ I've worked on a wide range of projects, from small websites to large-scale ente
   ><img
    alt="Bootstrap"
    src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"
+ /></a>
+ <a href="#"
+  ><img
+   alt="styledcomponents"
+   src="https://img.shields.io/badge/styledcomponents-DB7093.svg?logo=styledcomponents&logoColor=white"
  /></a>
  <a href="#"
   ><img
