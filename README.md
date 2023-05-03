@@ -22,7 +22,8 @@ I've worked on a wide range of projects, from small websites to large-scale ente
 ### 🧐 More About Me
 
 - 💼 Software Engineer at [SmartQ](https://www.thesmartq.com/)
-- 🌱 &nbsp; I’m currently learning Typescript;
+- 🌱 &nbsp; I’m currently learning Typescript and working on my Data Structures and Algorithms;
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/imran-sah-951521161/)
   <!-- - 🔭 &nbsp; I’m currently working on  -->
@@ -189,6 +190,11 @@ I've worked on a wide range of projects, from small websites to large-scale ente
  /></a>
  <a href="#"
   ><img
+   alt="googlecloud"
+   src="https://img.shields.io/badge/googlecloud-4285F4.svg?logo=googlecloud&logoColor=white"
+ /></a>
+ <a href="#"
+  ><img
    alt="GitHub Desktop"
    src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"
  /></a>
@@ -206,8 +212,13 @@ I've worked on a wide range of projects, from small websites to large-scale ente
 
 <!-- stats widgets -->
 <!-- <a href="https://github.com/imransah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imransah&layout=compact&theme=buefy&hide_border=true" /></a> -->
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
 
 | <a href="https://github.com/imransah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imransah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Imran's github stats" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imransah&&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="imransah" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<a href="https://stats.hyochan.dev/en/stats/imransah"><img src="https://stats.hyochan.dev/api/github-stats?login=imransah" width="600" /></a>
+<a href="https://stats.hyochan.dev/en/stats/imransah"><img src="https://stats.hyochan.dev/api/github-stats?login=imransah" width="100%" /></a>
+
+</details>
