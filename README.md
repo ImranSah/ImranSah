@@ -218,6 +218,6 @@ I've worked on a wide range of projects, from small websites to large-scale ente
 | <a href="https://github.com/imransah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imransah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Imran's github stats" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imransah&&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="imransah" /> |
 | --- | --- |
 
-<a href="https://stats.hyochan.dev/en/stats/imransah"><img src="https://stats.hyochan.dev/api/github-stats?login=imransah" width="100%" /></a>
+<!-- <a href="https://stats.hyochan.dev/en/stats/imransah"><img src="https://stats.hyochan.dev/api/github-stats?login=imransah" width="100%" /></a> -->
 
 </details>
