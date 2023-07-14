@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![alt text](./assets/banner.jpg "Banner")
+<!-- ![alt text](./assets/banner.jpg "Banner") -->
 
 <!-- Intro -->
 
