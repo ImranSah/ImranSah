@@ -2,7 +2,7 @@
 ![alt text](./assets/banner.jpg "Banner")
 
 <!-- Intro -->
-<!--
+
 <h1 align="left">
   <img
   width="40"
@@ -14,7 +14,7 @@
    alt="Typing SVG"
  /></a>
 </h1>
--->
+
 
 <!-- Social Icon -->
 
