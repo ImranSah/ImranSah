@@ -250,19 +250,6 @@ I'm a **Full Stack Software Engineer** — **4+ years building enterprise-grade 
 
 ---
 
-<!-- stats widgets -->
-<details>
-  <summary><b>⚡ GitHub Statistics</b></summary>
-  <br />
-
-| GitHub Stats | Contribution Streak |
-|---|---|
-| <a href="https://github.com/imransah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imransah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Imran's github stats" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imransah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="imransah" /> |
-
-</details>
-
----
-
 <p align="center">
   <i>⭐ If you find my work interesting, feel free to star my repositories and connect with me!</i>
 </p>
