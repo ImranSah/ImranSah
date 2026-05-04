@@ -10,7 +10,7 @@
 />,
  <a href="https://git.io/typing-svg"
   ><img
-   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=7957D5&vCenter=true&width=500&height=25&lines=Hey+there!+I'm+Imran+Sah+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB"
+   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=7957D5&vCenter=true&width=650&height=25&lines=Hey+there!+I'm+Imran+Sah+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB"
    alt="Typing SVG"
 /></a>
 </h1>
@@ -57,17 +57,17 @@
 
 I'm a **Full Stack Software Engineer** — **4+ years building enterprise-grade full-stack applications**. Specializing in React, Python, and cloud-native solutions to deliver secure, high-impact products. I'm passionate about crafting high-performance systems that solve real-world problems.
 
-**Currently:** Software Engineer at [SmartQ](https://www.thesmartq.com/) (by Compass Group)  
+**Currently:** Software Engineer at [SmartQ](https://www.thesmartq.com/) (by Compass Group)
 **Focus:** Building consumer-grade, data-driven web applications and enterprise APIs
 
-- 💼 &nbsp; **Current Role:** Optimizing frontend performance and leading React architecture improvements  
-- 🎯 &nbsp; **Expertise:** React/TypeScript, Python, Full-stack development, API design, Performance optimization  
-- 🌱 &nbsp; **Proficient in:** TypeScript, modern React patterns, Redux, Node.js, Django, and GCP  
-- 🔭 &nbsp; Love exploring new tech stacks and building scalable, maintainable solutions  
-- 👯 &nbsp; Open to collaborating on full-stack web apps and innovative projects  
-- 💬 &nbsp; Ask me about architecture decisions, performance optimization, and best practices  
-- 📫 &nbsp; Connect on [LinkedIn](https://www.linkedin.com/in/imran-sah-951521161/) or [Email](mailto:imransah1623@gmail.com)  
-- 🕐 &nbsp; When I'm not coding, I enjoy gaming 🎮 and watching anime  
+- 💼 &nbsp; **Current Role:** Optimizing frontend performance and leading React architecture improvements
+- 🎯 &nbsp; **Expertise:** React/TypeScript, Python, Full-stack development, API design, Performance optimization
+- 🌱 &nbsp; **Proficient in:** TypeScript, modern React patterns, Redux, Node.js, Django, and GCP
+- 🔭 &nbsp; Love exploring new tech stacks and building scalable, maintainable solutions
+- 👯 &nbsp; Open to collaborating on full-stack web apps and innovative projects
+- 💬 &nbsp; Ask me about architecture decisions, performance optimization, and best practices
+- 📫 &nbsp; Connect on [LinkedIn](https://www.linkedin.com/in/imran-sah-951521161/) or [Email](mailto:imransah1623@gmail.com)
+- 🕐 &nbsp; When I'm not coding, I enjoy gaming 🎮 and watching anime
 
 ---
 
