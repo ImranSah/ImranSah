@@ -10,7 +10,7 @@
 />,
  <a href="https://git.io/typing-svg"
   ><img
-   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=7957D5&vCenter=true&width=420&height=25&lines=I'm+Imran+Sah;Full+Stack+Developer+%F0%9F%92%BB"
+   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=7957D5&vCenter=true&width=500&height=25&lines=Hey+there!+I'm+Imran+Sah+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB"
    alt="Typing SVG"
 /></a>
 </h1>
@@ -55,7 +55,7 @@
 
 ### 🧐 About Me
 
-I'm a **Full Stack Software Engineer** with **4+ years of experience** specializing in scalable full-stack systems. I leverage modern development tools, React, Python, and cloud platforms to deliver secure, high-impact products. I'm passionate about building high-performance applications that solve real-world problems.
+I'm a **Full Stack Software Engineer** — **4+ years building enterprise-grade full-stack applications**. Specializing in React, Python, and cloud-native solutions to deliver secure, high-impact products. I'm passionate about crafting high-performance systems that solve real-world problems.
 
 **Currently:** Software Engineer at [SmartQ](https://www.thesmartq.com/) (by Compass Group)  
 **Focus:** Building consumer-grade, data-driven web applications and enterprise APIs
@@ -68,47 +68,6 @@ I'm a **Full Stack Software Engineer** with **4+ years of experience** specializ
 - 💬 &nbsp; Ask me about architecture decisions, performance optimization, and best practices  
 - 📫 &nbsp; Connect on [LinkedIn](https://www.linkedin.com/in/imran-sah-951521161/) or [Email](mailto:imransah1623@gmail.com)  
 - 🕐 &nbsp; When I'm not coding, I enjoy gaming 🎮 and watching anime  
-
----
-
-## 💼 Professional Highlights
-
-### SmartQ - Compass Group | **Software Engineer** | Nov 2021 – Present
-
-**Optimized Control Desk Efficiency**
-- Spearheaded initiatives that resulted in **40% increase** in overall speed and responsiveness
-- Led end-to-end migration of legacy Angular admin dashboard to React Control Desk
-- Upgraded React from v14 to v17 and Material-UI from v4 to v5, significantly improving performance and scalability
-
-**Developed Reusable Component Library**
-- Innovatively built custom widget library for Control Desk and Time2Eat PWA
-- **Reduced development time by 70%** through strategic component standardization
-- Streamlined development process, fostering agility and team innovation
-
-**Performance & Quality Improvements**
-- **Boosted frontend performance by 40%** using lazy loading and asset minification
-- **Reduced defects by 35%** through code reviews, design patterns, and best practices
-- Leveraged AI-powered tools (Cursor, GitHub Copilot) for enhanced code quality
-
-**Enterprise-Scale Development**
-- Built consumer-grade, data-driven web applications handling real-time operational data at scale
-- Designed and developed RESTful APIs used by enterprise food-tech customers
-- Mentored and onboarded junior developers, improving team productivity and collaboration
-
-**Tech Stack:** JavaScript/TypeScript, React, Redux, Material-UI, Node.js, Flask, Python, GCP, Firebase
-
----
-
-### Skyris Technologies | **Software Engineer Intern** | Jan 2020 – May 2020
-- Developed responsive Flutter e-commerce application leveraging Firebase for seamless functionality
-- Implemented real-time database synchronization and user authentication flows
-
----
-
-## 🎓 Education
-
-**Sikkim Manipal University** | 2016 – 2020  
-Bachelor of Science in Computer Science
 
 ---
 
@@ -302,7 +261,7 @@ Bachelor of Science in Computer Science
 
 | GitHub Stats | Contribution Streak |
 |---|---|
-| <a href="https://github.com/imransah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imransah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Imran's github stats" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imransah&&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="imransah" /> |
+| <a href="https://github.com/imransah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imransah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Imran's github stats" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imransah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="imransah" /> |
 
 </details>
 
